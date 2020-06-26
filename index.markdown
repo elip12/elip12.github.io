@@ -14,6 +14,6 @@ I'm interested in research in bioinformatics and computational economics.
 I'm currently working on PSL-GWAS, a novel microbial GWAS method that utilizes statistical relational learning
 to predict genetic causes of bacterial phenotypes. You can view the [source code](https://github.com/elip12/psl-gwas) and the [docs](https://psl-gwas.readthedocs.io).
 
-During my undergrad, I assisted with economics research with UCSC's [LEEPS Lab](https://econlab.ucsc.edu/public/).
+During my undergrad, I assisted with economics research at UCSC's [LEEPS Lab](https://econlab.ucsc.edu/public/).
 
-You can view my [github](https://github.com/elip12), [linkedin](https://linkedin.com/in/eli-pandolfo), and [resume](/resume).
+You can view my [github](https://github.com/elip12), [linkedin](https://linkedin.com/in/eli-pandolfo), and [resume](/static/Resume.pdf).
