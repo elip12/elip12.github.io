@@ -16,4 +16,4 @@ to predict genetic causes of bacterial phenotypes. You can view the [source code
 
 During my undergrad, I assisted with economics research at UCSC's [LEEPS Lab](https://econlab.ucsc.edu/public/).
 
-You can view my [github](https://github.com/elip12), [linkedin](https://linkedin.com/in/eli-pandolfo), and [resume](/static/Resume.pdf).
+You can view my [github](https://github.com/elip12) and [linkedin](https://linkedin.com/in/eli-pandolfo).
